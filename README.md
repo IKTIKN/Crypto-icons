@@ -1,16 +1,18 @@
 # Cryptocurrency icons from Coinmarketcap
 Icon assets for cryptocurrencies 
 
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/BTC.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/LTC.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/ETH.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/LINK.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/DOGE.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/XMR.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/NEO.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/TRX.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/FDUSD.png" />
-<img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/XRP.png" />
+<p float="left">
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/BTC.png" /> 
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/LTC.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/ETH.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/LINK.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/DOGE.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/XMR.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/NEO.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/TRX.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/FDUSD.png" />
+    <img width="64px" src="https://raw.githubusercontent.com/IKTIKN/crypto-icons/main/output/icons/symbol/XRP.png" />
+</p>
 
 ## Icons
 As GitHub has a limit of 1000 files per folder, this repository contains only the top 100 icons from Coinmarketcap. Run the Python script to download all 9842 icons!
